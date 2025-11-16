@@ -80,6 +80,8 @@ Inception : https://arxiv.org/pdf/1409.4842<br><br>
 **Computer Vision**<br>
 https://arxiv.org/pdf/2507.01790<br><br>
 https://arxiv.org/pdf/2404.12652<br><br>
+https://openreview.net/forum?id=Vq0wMFBjo2<br><br>
+https://arxiv.org/pdf/2211.05100<br><br>
 <br><br>
 
 https://www.youtube.com/@danielkrei/videos
