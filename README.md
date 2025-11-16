@@ -70,9 +70,10 @@ Inception : https://arxiv.org/pdf/1409.4842<br><br>
 
 
 
-**Learning Pytorch**<br>
+**GitHUB**<br>
 
 1) https://github.com/52CV?tab=repositories <br>
+2) https://github.com/rasbt?tab=repositories <br>
 
 
 
