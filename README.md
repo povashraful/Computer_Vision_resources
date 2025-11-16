@@ -69,6 +69,17 @@ ResNet: https://arxiv.org/abs/1512.03385<br><br>
 Inception : https://arxiv.org/pdf/1409.4842<br><br>
 
 
+
+**Learning Pytorch**<br>
+
+1) https://github.com/52CV?tab=repositories <br>
+
+
+
+
+
+
+
 https://www.youtube.com/@danielkrei/videos
 
 
